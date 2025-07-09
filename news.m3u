@@ -3,9 +3,11 @@
 #EXTINF:-1 tvg-id="" tvg-logo="https://akm-img-a-in.tosshub.com/aajtak/resource/img/bemisaal-20-saal/aajtak-logo-71X52.png" group-title="News",Aaj Tak
 https://aajtaklive-amd.akamaized.net/hls/live/2014416/aajtak/aajtaklive/live_720p/chunks.m3u8
 
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="News",Z News Hindi
+#EXTINF:-1 tvg-id="" tvg-logo="https://2ae4115a.delivery.rocketcdn.me/wp-content/uploads/2022/10/Zee_News_color@2x.png" group-title="News",Z News Hindi
 https://dknttpxmr0dwf.cloudfront.net/index_57.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://a3.mzstatic.com/us/r30/Purple5/v4/2b/fc/2a/2bfc2a1c-1c9d-cdd4-4158-3253f0184560/icon175x175.png" group-title="News",ABP News
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a2/Zee_Bihar_Jharkhand_2025_Logo.png" group-title="News",Z Bihar Jharkhand
+https://d3vmwjy7v49lo5.cloudfront.net/index_4.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/ABP_News_logo.svg/500px-ABP_News_logo.svg.png" group-title="News",ABP News
 https://abplivetv.pc.cdn.bitgravity.com/httppush/abp_livetv/abp_abpnews/master_720.m3u8
